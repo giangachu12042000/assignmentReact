@@ -1,0 +1,9 @@
+
+SỬ LÝ BẤT ĐỒNG BỘ
+*PROMIS: 
+- pending: trạng thái chờ
+-reject
+.then: có kết quả của pending,
+. catch: kết quả lỗi
+
+vd: fetch, async await => trả về promis
